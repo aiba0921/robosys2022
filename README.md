@@ -9,7 +9,7 @@
 
 ## インストール方法
 * GitHubのリポジトリページの右上にある「code」をクリックし、URLをコピー
-* ターミナル上で ````git clone https://github.com/TakuyaNagamine/robosys2022.git```` でインストール
+* ターミナル上で ````git clone git@github.com:aiba0921/robosys2022.git```` でインストール
 
 
 ## 使用方法
