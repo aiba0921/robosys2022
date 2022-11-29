@@ -3,9 +3,9 @@
 ## plusコマンド
 ![test](https://github.com/aiba0921/robosys2022/actions/workflows/test.yml/badge.svg)
 
-## 必要なソフトウェア
-* Python
-  * テスト済み: 3.7～3.10
+## 動作環境
+* Ubuntu 22.04.5 LTS
+* Python 3.7～3.10:テスト済み
 
 ## インストール方法
 * GitHubのリポジトリページの右上にある「code」をクリックし、URLをコピー
@@ -20,10 +20,6 @@
      $ seq 5 | ./plus
      15
     ````
-
-## テスト環境
-* Ubuntu 22.04.5 LTS
-
 ## ライセンス情報
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * © 2022 Yuto Aiba
