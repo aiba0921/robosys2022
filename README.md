@@ -9,14 +9,17 @@
 
 ## インストール方法
 * GitHubのリポジトリページの右上にある「code」をクリックし、URLをコピー
-* ターミナル上で ````git clone git@github.com:aiba0921/robosys2022.git```` でインストール
+* ターミナル上で ````git clone https://github.com/aiba0921/robosys2022.git```` でインストール
 
 
 ## 使用方法
 * 標準入力から読み込んだ数字を足す。
   * $ cd robosys2022
-  * 入力例 ````$ seq 5 | ./plus````
-  * 出力例 ````$ 15````
+  * 入出力例 
+    ````
+     $ seq 5 | ./plus
+     15
+    ````
 
 ## テスト環境
 * Ubuntu 22.04.5 LTS
